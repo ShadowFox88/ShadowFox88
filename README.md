@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ShadowFox88/ShadowFox88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am [ShadowFox88]()
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Transact SQL
+- 👯 I’m looking to collaborate on anything
+- 💬 Ask me about python and video games
+- 📫 How to reach me: [discord @ Flyingdog#2227](https://discord.com/users/606648465065246750)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I play minecraft
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=shadowfox88&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowfox88&layout=compact&theme=algolia&hide_border=true)
