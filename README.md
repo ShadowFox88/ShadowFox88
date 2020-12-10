@@ -5,7 +5,7 @@ I am [ShadowFox88]()
 - 🌱 I’m currently learning Transact SQL
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about python and video games
-- 📫 How to reach me: [discord @ Flyingdog#2227](https://discord.com/users/606648465065246750)
+- 📫 How to reach me: [Discord: Flyingdog#2227](https://discord.com/users/606648465065246750)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play minecraft
 
