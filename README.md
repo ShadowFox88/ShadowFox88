@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [ShadowFox88]()
+I am [ShadowFox88](https://github.com/ShadowFox88)
 
 - 🌱 I’m currently learning Transact SQL
 - 👯 I’m looking to collaborate on anything
