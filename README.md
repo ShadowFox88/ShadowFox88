@@ -9,6 +9,8 @@ I am [ShadowFox88](https://github.com/ShadowFox88)
 
 ### Stats
 
+![View Counter](https://komarev.com/ghpvc/?username=ShadowFox88&style=flat-square&color=003b6f&label=View+Counter)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shadowfox88&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowfox88&layout=compact&theme=algolia&hide_border=true)
